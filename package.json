@@ -1,4 +1,5 @@
 {
+  "name": "nextra-fork",
   "private": true,
   "packageManager": "pnpm@8.9.2",
   "scripts": {
